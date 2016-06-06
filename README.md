@@ -1,2 +1,2 @@
 # hello-world
-A quick setup to tutorial to see how things work
+A quick setup tutorial to see how things work. Hopefully we can get this working!
